@@ -1,0 +1,5 @@
+Hello,My name is Pranali.
+Purpose of this file is that
+when single line is read from this file it will 
+immediately displayed on the index.js file.
+hence,the concept of streaming is utilized.
